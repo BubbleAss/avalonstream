@@ -9,8 +9,7 @@ body{
 
 
 
-
-
+/* Nav */
 nav{
     display: flex;
     justify-content: space-around;
@@ -50,7 +49,7 @@ nav{
 
 
 
-
+/* Home */
 
 .title{
     display: block;
@@ -77,3 +76,53 @@ IMG.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto }
+
+
+
+
+
+/* About */
+.phoneIMG{
+    display: inherit;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    right: 500px;
+    top: 150px;
+}
+
+
+.mailIMG{
+    display: inherit;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 500px;
+    top: 150px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
